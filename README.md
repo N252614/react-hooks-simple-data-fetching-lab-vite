@@ -75,3 +75,24 @@ npm run test
 ## Submission
 Once the lab is complete, all tests are passing, and you've pushed the completed code to 
 your forked repo on GitHub, submit your GitHub repo through Canvas using CodeGrade.
+
+## My Completed Project
+
+This app fetches and displays a random dog image from the [Dog CEO API](https://dog.ceo/api/breeds/image/random).
+
+### Features Implemented
+
+- Fetch dog image on first load using `useEffect`
+- Show loading message while fetching
+- Display the dog image in the browser
+- Load new image when button is clicked
+- All tests passed 
+
+### Screenshot
+
+![App Screenshot](./screenshot.png)
+
+Project completed and working as expected!
+
+
+
